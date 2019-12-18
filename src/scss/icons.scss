@@ -1,0 +1,68 @@
+/*!
+ * Alexandre Pourrier's icon set.
+ * Example usage: <i class="ap ap-arrow-right"></i>
+ */
+
+.ap {
+  display: inline-block;
+  background-color: transparent;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  width: 16px;
+  height: 16px;
+  background-position: 0 3px;
+}
+
+.ap-pos-0 {
+  background-position: 0;
+}
+
+.ap-80 {
+  width: 80px;
+  height: 80px;
+}
+
+.ap-arrow-right {
+  background-image: url("icons/icon-arrow-right-48x48.png");
+}
+
+.ap-just-play-bridge {
+  background-image: url("icons/icon-just-play-bridge-80x80.png");
+}
+
+.ap-bridge-four {
+  background-image: url("icons/icon-bridge-four-80x80.png");
+}
+
+.ap-just-declare {
+  background-image: url("icons/icon-just-declare-80x80.png");
+}
+
+.ap-bridge-master {
+  background-image: url("icons/icon-bridge-master-80x80.png");
+}
+
+.ap-match-points {
+  background-image: url("icons/icon-match-points-80x80.png");
+}
+
+.ap-imp {
+  background-image: url("icons/icon-imp-80x80.png");
+}
+
+.ap-video-bridge {
+  background-image: url("icons/icon-video-bridge-80x80.png");
+}
+
+.ap-plus {
+  background-image: url("icons/icon-plus-128x128.png");
+}
+
+.ap-forums {
+  background-image: url("icons/icon-forums-80x80.png");
+}
+
+.ap-learn {
+  background-image: url("icons/icon-learn-80x80.png");
+}
+
