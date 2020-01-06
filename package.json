@@ -1,9 +1,12 @@
 {
   "name": "@bridgebase/common-assets",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Common Assets for BridgeBase Online",
   "repository": "git@github.com:bridgebase/common-assets.git",
   "author": "Beno!t POLASZEK <benoit@bridgebase.com>",
   "license": "UNLICENSED",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.4.1"
+  }
 }

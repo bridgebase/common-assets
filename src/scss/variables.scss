@@ -35,8 +35,10 @@ $red: #e53935;
 $orange: #eba211;
 $yellow: #ffc107;
 $green: #138761;
-$teal: #051e3d;
-$cyan: #138761;
+$teal: #20c997;
+$cyan: #17a2b8;
+$nightblue: #0b182a;
+$navy: #051e3d;
 
 $colors: ();
 // stylelint-disable-next-line scss/dollar-variable-default
@@ -52,6 +54,8 @@ $colors: map-merge(
                         "green": $green,
                         "teal": $teal,
                         "cyan": $cyan,
+                        "nightblue": $nightblue,
+                        "navy": $navy,
                         "white": $white,
                         "gray": $gray-600,
                         "gray-dark": $gray-800
