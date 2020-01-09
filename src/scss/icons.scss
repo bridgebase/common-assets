@@ -74,3 +74,21 @@
   background-image: url("./icons/icon-users-star.svg");
 }
 
+.ap-chevron-down {
+  background-image: url("./icons/icon-chevron.svg");
+}
+
+.ap-chevron-up {
+  background-image: url("./icons/icon-chevron.svg");
+  transform: rotate(180deg);
+}
+
+.ap-chevron-left {
+  background-image: url("./icons/icon-chevron.svg");
+  transform: rotate(90deg);
+}
+
+.ap-chevron-right {
+  background-image: url("./icons/icon-chevron.svg");
+  transform: rotate(-90deg);
+}
