@@ -162,7 +162,7 @@ $h4-font-size: $font-size-base * 1.5;
 $h5-font-size: $font-size-base * 1.25;
 $h6-font-size: $font-size-base;
 
-$headings-margin-bottom: $spacer / 2;
+$headings-margin-bottom: calc($spacer / 2);
 $headings-font-family: null;
 $headings-font-weight: 500;
 $headings-line-height: 1.2;
